@@ -1,0 +1,30 @@
+.container {
+    margin-top: 30px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2.2em;
+    color: #007bff;
+  }
+  
+  .form-group {
+    margin: 15px 0;
+  }
+  
+  .form-control {
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    width: 100%;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
